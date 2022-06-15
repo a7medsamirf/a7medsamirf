@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
-<h3 align="center">Frontend developer from Egypt</h3>
+<h3 align="center">Front End Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medsamirf&label=Profile%20views&color=0e75b6&style=flat-square" alt="a7medsamirf" /> </p>
 
