@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/proa7medsamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="proa7medsamir" height="30" width="40" /></a>
-<a href="https://dev.to/a7medsamirf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="a7medsamirf" height="30" width="40" /></a>
 <a href="https://twitter.com/a7medsamirf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7medsamirf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/a7med-samir-f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a7med-samir-f" height="30" width="40" /></a>
 <a href="https://fb.com/a7med.samir.93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a7med.samir.93" height="30" width="40" /></a>
