@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/a7medsamirf" target="blank"><img src="https://img.shields.io/twitter/follow/a7medsamirf?logo=twitter&style=for-the-badge" alt="a7medsamirf" /></a> </p>
 
-- 🔭 I’m currently working on **Global Soft**
+- 🔭 I’m currently working on **Beetleware**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
