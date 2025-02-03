@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7medsamirf" alt="a7medsamirf" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/proa7medsamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="proa7medsamir" height="30" width="40" /></a>
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7medsamirf&show_icons=true&locale=en" alt="a7medsamirf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medsamirf&" alt="a7medsamirf" /></p>
+
